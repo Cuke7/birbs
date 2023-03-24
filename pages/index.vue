@@ -4,7 +4,7 @@
             <input class="rounded-lg p-2 outline-0 text-white" v-model="text" />
             <div class="my-2 mx-1">{{ text }} {{ count }}</div>
             <div class="bg-green-900 p-2 font-bold rounded-lg text-center" @click="go">Click me!</div>
-            <a href="/toto">s</a>
+            <a href="/toto">ss</a>
         </div>
     </div>
 </template>
